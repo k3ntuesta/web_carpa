@@ -1,0 +1,33 @@
+/* Selectores de clases */
+.color-brand {
+    background-color: #503413;
+}
+
+/* Selectores  de elementos*/
+h1 {
+    color: #8EC044;
+}
+
+h3 {
+    color: #bf7c44;
+}
+
+.table > .thead-dark th {
+    background-color: #503413;
+}
+
+.btn-custom {
+    background-color: #503413;
+    color: white;
+}
+
+.btn-custom:hover {
+    background: #bf7c44;
+    color: white;
+}
+
+.list-form {
+    color: white;
+}
+
+
